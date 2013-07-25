@@ -1,4 +1,4 @@
-linked-data-exploration-graph
+Linked Data Exploration Graph
 =============================
 
 An app to navigate interconnections between wiki / wikipedia pages

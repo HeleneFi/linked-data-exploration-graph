@@ -31,5 +31,6 @@ An app to navigate interconnections between wiki / wikipedia pages
 
 
 
-"The strange and beautiful truth about the adjacent possible is that its boundaries grow as you explore thThe Origins of Good Ideas, Steophen Johnson, WSJ Sept 2011
+"The strange and beautiful truth about the adjacent possible is that its boundaries grow as you explore them. Each new combination opens up the possibility of other new combinations. Think of it as a house that magically expands with each door you open. You begin in a room with four doors, each leading to a new room that you haven't visited yet. Once you open one of those doors and stroll into that room, three new doors appear, each leading to a brand-new room that you couldn't have reached from your original starting point. Keep opening new doors and eventually you'll have built a palace."
+The Origins of Good Ideas, Stephen Johnson, WSJ Sept 2011: http://online.wsj.com/article/SB10001424052748703989304575503730101860838.html#articleTabs%3Darticle
 

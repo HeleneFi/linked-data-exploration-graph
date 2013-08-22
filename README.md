@@ -20,7 +20,7 @@ An app to navigate interconnections between wiki / wikipedia pages
 **Example of applications**:
 
 * Navigation menu for crowded wikis
-* Change and transition learning, innovation > navigating "adjacent possibles"
+* Change and transition learning, innovation > navigating "adjacent possibles"*
 * Immediate application: the commons movement & alternatives
 
 **Current tools used**: - use case to navigate alternatives:
@@ -28,4 +28,8 @@ An app to navigate interconnections between wiki / wikipedia pages
 * Pearltrees: http://www.pearltrees.com/t/exploring-alternatives/id5509379
 
 * Debategraph: http://debategraph.org/Stream.aspx?nid=214100&vt=bubble&dc=focus
+
+
+
+"The strange and beautiful truth about the adjacent possible is that its boundaries grow as you explore thThe Origins of Good Ideas, Steophen Johnson, WSJ Sept 2011
 

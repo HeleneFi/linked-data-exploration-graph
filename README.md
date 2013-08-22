@@ -20,7 +20,7 @@ An app to navigate interconnections between wiki / wikipedia pages
 **Example of applications**:
 
 * Navigation menu for crowded wikis
-* Change and transition learning, innovation > Navigating "adjacent possibles"
+* Change and transition learning, innovation > navigating "adjacent possibles"
 * Immediate application: the commons movement & alternatives
 
 **Current tools used**: - use case to navigate alternatives:

@@ -13,7 +13,7 @@ Linked Data Exploration Graph
 
 * Navigate from node to node, entering via any selected point of the graph to discover possibilities and learn from the place the user is at and preferred domains of practice onto new territories. Create navigation paths in complex content.
 
-**Approaching apps or maps**: 
+**Similar apps or maps**: 
 
 * Wikinodes (http://www.idea.org/WikiNodes.htm) iPad application (mimicking visual thesaurus type of navigation) -this does not provide a graph, is not 'self-generated'.
 * Map of Science: http://scimaps.org/maps/map/a_clickstream_map_of_83/detail/

@@ -5,9 +5,7 @@ Linked Data Exploration Graph
 [The Origins of Good Ideas](http://online.wsj.com/article/SB10001424052748703989304575503730101860838.html#articleTabs%3Darticle), Stephen Johnson, WSJ Sept 2011, describing the 'adjacent possible' proposed by Struart Kaufman
 
 
-An app to navigate interconnections between wiki / wikipedia pages
-
-
+**An app to navigate interconnections between semantic units / wiki or wikipedia pages**
 
 * Explore relationships between 'known' or given fields of knowledge (or memes) by graphing hyperlinks between given sets of webpages (for example wikipedia).
 
@@ -24,7 +22,7 @@ An app to navigate interconnections between wiki / wikipedia pages
 **Example of applications**:
 
 * Navigation menu for crowded wikis
-* Change and transition learning, innovation > navigating "adjacent possibles"^
+* Change and transition learning, innovation > navigating "adjacent possibles"
 * Immediate application: the commons movement & alternatives
 
 **Current tools used**: - use case to navigate alternatives:

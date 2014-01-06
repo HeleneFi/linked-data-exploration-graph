@@ -9,7 +9,7 @@ Linked Data Exploration Graph
 
 **An app to navigate interconnections between semantic units / wiki or wikipedia pages**
 
-* Explore relationships between 'known' or given fields of knowledge (or memes) by graphing hyperlinks between given sets of webpages (for example wikipedia).
+* Explore relationships between 'known' or given fields of knowledge (or memes) by graphing hyperlinks between given sets of webpages (for example wikipedia). 
 
 * 'Track' what emerges at the periphery and 'in between' these known nodes by graphing hyperlinks to other pages from the given set of pages and monitoring how it evolves in time as more resources become available and interlinked on these subjects. 
 
@@ -20,10 +20,12 @@ Linked Data Exploration Graph
 * Wikinodes (http://www.idea.org/WikiNodes.htm) iPad application (mimicking visual thesaurus type of navigation) -this does not provide a graph, is not 'self-generated'.
 * Map of Science: http://scimaps.org/maps/map/a_clickstream_map_of_83/detail/
 * Interactive Graph of influential thinkers: http://bgriffen.scripts.mit.edu/www/media/json/thinkers/#
+* Lexical distance among the languages of Europe: http://elms.wordpress.com/2008/03/04/lexical-distance-among-languages-of-europe/
 
 **Example of applications**:
 
 * Navigation menu for crowded wikis
+* Peer learning
 * Change and transition learning, innovation > navigating "adjacent possibles"
 * Immediate application: the commons movement & alternatives
 

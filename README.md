@@ -1,5 +1,5 @@
-Linked Data Exploration Graph
-=============================
+Navigating the Possibility Space
+================================
 
 **Exploring the Adjacent Possible**
 

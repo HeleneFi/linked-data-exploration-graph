@@ -19,7 +19,7 @@ Navigating the Possibility Space
 
 * Wikinodes (http://www.idea.org/WikiNodes.htm) iPad application (mimicking visual thesaurus type of navigation) -this does not provide a graph, is not 'self-generated'.
 * Map of Science: http://scimaps.org/maps/map/a_clickstream_map_of_83/detail/
-* Interactive Graph of influential thinkers: http://bgriffen.scripts.mit.edu/www/media/json/thinkers/#
+* Interactive Graph of influential thinkers: http://brendangriffen.com/gow-influential-thinkers/
 * Lexical distance among the languages of Europe: http://elms.wordpress.com/2008/03/04/lexical-distance-among-languages-of-europe/
 
 **Example of applications**:

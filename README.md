@@ -1,4 +1,4 @@
-Navigating the Possibility Space
+Navigating Knowledge & the Possibility Space
 ================================
 
 **Exploring the Adjacent Possible**
@@ -9,7 +9,7 @@ Navigating the Possibility Space
 
 **An app to navigate interconnections between semantic units / wiki or wikipedia pages**
 
-* Explore relationships between 'known' or given fields of knowledge (or memes) by graphing hyperlinks between given sets of webpages (for example wikipedia). 
+* Explore relationships between 'known' or given fields of knowledge (or memes) by graphing hyperlinks between given sets of webpages (for example wikipedia or wikimedia). 
 
 * 'Track' what emerges at the periphery and 'in between' these known nodes by graphing hyperlinks to other pages from the given set of pages and monitoring how it evolves in time as more resources become available and interlinked on these subjects. 
 
@@ -27,7 +27,8 @@ Navigating the Possibility Space
 * Navigation menu for crowded wikis
 * Peer learning
 * Change and transition learning, innovation > navigating "adjacent possibles"
-* Immediate application: the commons movement & alternatives
+* Exploration & monitoring of knowledge domains in various languages
+* Exploration of connections & overlaps between domains and languages
 
 **Current tools used**: - use case to navigate alternatives:
 
